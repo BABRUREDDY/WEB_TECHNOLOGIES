@@ -1,0 +1,63 @@
+.background{
+    
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    row-gap: 90px;
+    justify-content: space-between;
+    padding: 40px;
+   
+
+
+    
+}
+.title{
+    text-align: center;
+    font-weight:bold;
+    color: white;
+    font-style: normal;
+
+}
+.paragraph{
+    text-align: center;
+    color: white;
+}
+.input{
+    text-align: center;
+    margin-bottom: 10px;
+}
+.buttom{
+    text-align: center;
+   padding: 5px;
+   margin: 10px;
+   color:white;
+   background-color: red;
+   margin-left: 625px;
+}
+.row{
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    row-gap: 10px;
+    margin-left: 500px;
+    color: white;
+    
+}
+.pictures{
+    text-align: center;
+}
+.background1{
+    background-color: black;
+    margin-top: 20px;
+    border-color: bisque;
+    border-top: 20px;
+}
+.background2{
+    background-image: url("../Pictures/Netflixbackground.jpeg");
+    margin: none;
+    background-size: cover;
+    width: 100vw;
+}
+.teja{
+    text-align: center;
+}

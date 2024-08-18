@@ -1,0 +1,33 @@
+.teja{
+    color: white;
+    background-color: rgb(255, 132, 0);
+    border-radius: 0px 20px;
+}
+.backimage{
+    background-attachment: fixed;
+   
+    padding: 20px;
+    color: white;
+    background-image: url("https://static.vecteezy.com/system/resources/thumbnails/004/584/977/small/beautiful-wood-background-with-text-space-free-vector.jpg");
+}
+
+.head{
+    color: rgb(0, 255, 157);
+    text-align: center;
+    text-decoration: underline;
+    position: sticky;
+    top: 0px;
+    
+
+}
+.row{
+  
+    margin: 10px
+}
+.forms{
+    margin: 8px;
+}
+.education{
+  padding-bottom: 5px;
+
+}

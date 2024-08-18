@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+        main();
+        function main(){
+            let n=Number(prompt("Enter the No of units"));
+            let r=0;
+            if((n>0) && (n<=200)){
+                  r=0*n;     
+            }
+            else if((n>201)&&(n<=250)){
+                 r=(0*200)+(3*(n-200));
+               
+            }
+            else if((n>251)&&(n<=300)){
+                r=((0*200)+(3*50)+(5*(n-250)));
+               
+            }
+            else if(n>300)
+            {
+                r=((0*200)+(3*50)+(5*50)+(7*(n-300)));
+            } 
+        console.log(r);
+        }
+    </script>
+    <title>Document</title>
+</head>
+<body>
+</body>
+</html>

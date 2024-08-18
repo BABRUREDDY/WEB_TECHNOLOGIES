@@ -1,0 +1,19 @@
+.login{
+    background-color: black;
+    color: white;
+    padding: 5px;
+    border-radius: 0px 20px;
+    margin-left: 800px;
+}
+.buttom{
+    background-color: blueviolet;
+    font-size: larger;
+    border-radius: 0px 18px;
+    border-color: orange;
+    padding: 5px;
+
+
+}
+.rows{
+    font-size: larger;
+}

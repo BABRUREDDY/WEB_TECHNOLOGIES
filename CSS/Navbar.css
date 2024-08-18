@@ -1,0 +1,28 @@
+.child{
+    margin: 0px;
+    padding: 10px;
+    
+
+}
+
+.container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color:white;
+    color: black;
+    padding: 15px;
+    border-radius: 20px;
+    font-size: smaller;
+}
+.child1::first-letter{
+    color: orange;
+}
+.child:hover{
+    background-color: orange;
+    height: 55px;
+    padding: 10px;
+    border-radius: 20px;
+  
+   
+}

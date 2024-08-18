@@ -1,0 +1,19 @@
+.card{
+    text-align: center;
+    font-style: italic;
+    
+    
+    
+}
+.bg-container{
+    background-image: url("https://img.freepik.com/premium-photo/illustration-virat-kohli-white-background_756405-57022.jpg?w=1380");
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.button{
+    background-color: aqua;
+    border-radius: 6px;
+    color: orange;
+    font-size: 25px;
+}

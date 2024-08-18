@@ -1,0 +1,14 @@
+.picture{
+    height: 10px;
+
+    width: 100vw;
+}
+.detailed-view-card-container {
+    background-color: white;
+    border-bottom-right-radius: 8px;
+    border-bottom-left-radius: 8px;
+    margin: 24px;
+  }
+  .para{
+    text-align: justify;
+  }

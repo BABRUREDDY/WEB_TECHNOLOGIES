@@ -1,0 +1,21 @@
+.background_img{
+   height: 100vh;
+   background-image: url("https://img.freepik.com/free-photo/cartoonish-thaipusam-celebration_23-2151101765.jpg?t=st=1722018848~exp=1722022448~hmac=1a3c63b37c97e4db9e903c697eded3d594cd8559d4e51b8310b0303dd0a052a8&w=740");
+   background-size: cover;
+}
+.cord{
+    border-color: #00000080;
+    border-width: 6px;
+    padding:45px;
+    border-style: solid;
+  
+    
+
+}
+.cord_text{
+    color: blue;
+    font-size: 30px;
+    font-family: "Bree Serif";
+    text-align: center;
+
+}
